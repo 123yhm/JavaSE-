@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/hp/test/Test03Monkey.java" line="28" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/hp/test/Test06Physical.java" line="18" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d6fe0ef-f249-4637-92ff-f7a1da22f02d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Constant</find>
+      <find>isRepeat</find>
+      <find>IPAddr</find>
+      <find>listPs</find>
+      <find>prevType</find>
+      <find>createDZ</find>
+      <find>canTalkClient</find>
+      <find>countClient</find>
+      <find>reGo</find>
+      <find>outIndex</find>
+      <find>canTalkIndex</find>
+      <find>gameState</find>
+      <find>split</find>
+      <find>STATE_GO</find>
+      <find>TATE_JOIN</find>
+      <find>judgeOut</find>
+      <find>----</find>
+      <find>STATE_BOSS</find>
+      <find>cntPass</find>
+      <find>startGame</find>
+      <find>landControl</find>
+      <find>STATE_OUT</find>
+      <find>clientCount</find>
+      <find>orderUser</find>
+      <find>cntOut</find>
+      <find>refreshP</find>
+      <find>输入的不合法，请重新输入</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/hp/test/com/hp/dou/LandControl.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/com/hp/dou/Test15Natural.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/Test15Natural.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/com/hp/dou/describe.txt" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/com/hp/dou/Landlords.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/Wangluo/Constant.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/Wangluo/PlayPoker.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/Wangluo/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/Wangluo/Poker.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/Test16Returned.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/CallName1823.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/PRule.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/P.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/LandControl.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/Landlords.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/LandUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/LandRule.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/TestDou.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/util/LandUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/face/ClientPort.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/terrace/ClientSide.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/rule/LandRule.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/PType.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/terrace/ClientServer.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/MyThinking" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/describe.txt" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/terrace/ServerSide.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/terrace/ServerClient.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/action/BuildPlying.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/rule/RuleLand.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/rule/LandType.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/action/PlayingType.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/DDZClient/src/com/java1823/ddzclient/DDZClient.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/test/TestPlaying.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/test/TestServer.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/test/TestClient.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/DDZClient/src/com/java1823/ddzclient/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/user/ClientUserName.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/Action.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/Test/TestDou.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/rule/LandControl.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dou/rule/Landlords.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/action/LandControl.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/action/PlayingCard.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/DDZServer.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/server/ServerDialogueClient.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/action/ActionLand.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/client/ClientLand.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/server/ServerLand.java" />
+        <option value="$PROJECT_DIR$/src/com/hp/test/dui/util/UtilLand.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="34" />
+    <option name="width" value="1133" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Day12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Day12\src\com\hp\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hp.test.dui.action" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Day12\src\com\hp\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestClient">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.test.DDZClient.src.com.java1823.ddzclient.Test" />
+      <module name="Day12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.test.DDZClient.src.com.java1823.ddzclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.test.DDZ.src.com.java1823.ddz.Test" />
+      <module name="Day12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.test.DDZ.src.com.java1823.ddz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.test.dui.test.TestClient" />
+      <module name="Day12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.test.dui.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestDou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.test.dou.Test.TestDou" />
+      <module name="Day12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.test.dou.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.test.dui.test.TestServer" />
+      <module name="Day12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.test.dui.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TestServer" />
+      <item itemvalue="Application.TestClient" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.TestDou" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClient" />
+        <item itemvalue="Application.TestServer" />
+        <item itemvalue="Application.TestDou" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d6fe0ef-f249-4637-92ff-f7a1da22f02d" name="Default" comment="" />
+      <created>1539086617359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539086617359</updated>
+      <workItem from="1539086622684" duration="2856000" />
+      <workItem from="1539093857931" duration="601000" />
+      <workItem from="1539140561022" duration="1729000" />
+      <workItem from="1539154955801" duration="3312000" />
+      <workItem from="1539178768865" duration="3451000" />
+      <workItem from="1539219149999" duration="5601000" />
+      <workItem from="1539317482975" duration="855000" />
+      <workItem from="1539339410339" duration="1367000" />
+      <workItem from="1539341622863" duration="6850000" />
+      <workItem from="1539354787767" duration="2043000" />
+      <workItem from="1539431761871" duration="3360000" />
+      <workItem from="1539518386607" duration="4592000" />
+      <workItem from="1539616919731" duration="2136000" />
+      <workItem from="1539619133718" duration="81000" />
+      <workItem from="1539689349331" duration="2064000" />
+      <workItem from="1539693807418" duration="978000" />
+      <workItem from="1539701139808" duration="889000" />
+      <workItem from="1539786201957" duration="5116000" />
+      <workItem from="1539828738123" duration="4878000" />
+      <workItem from="1539864071371" duration="2345000" />
+      <workItem from="1539913737077" duration="4738000" />
+      <workItem from="1539948984986" duration="648000" />
+      <workItem from="1539960099843" duration="852000" />
+      <workItem from="1540030971227" duration="11957000" />
+      <workItem from="1540087956358" duration="4380000" />
+      <workItem from="1540169483248" duration="5997000" />
+      <workItem from="1540211476378" duration="11664000" />
+      <workItem from="1540274577711" duration="6907000" />
+      <workItem from="1540297870173" duration="8738000" />
+      <workItem from="1540341629469" duration="8219000" />
+      <workItem from="1540380457767" duration="614000" />
+      <workItem from="1540449533920" duration="6861000" />
+      <workItem from="1540468721033" duration="4019000" />
+      <workItem from="1540516727857" duration="7621000" />
+      <workItem from="1540542836811" duration="16975000" />
+      <workItem from="1540601078763" duration="36926000" />
+      <workItem from="1540686800705" duration="6545000" />
+      <workItem from="1540726690442" duration="3013000" />
+      <workItem from="1540774702002" duration="721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test07Character_test - 2018.10.12 at 20h 41m 11s.xml">
+      <configuration name="Test07Character.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="202499000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20296296" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.20278184" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39407408" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24963397" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3614815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hp/test/Test14NumberTime.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/terrace/ClientServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/CallName1823.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/Test16Returned.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/PType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/MyThinking">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/describe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/terrace/ServerSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/terrace/ServerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/PRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui.java" />
+    <entry file="jar://D:/jdk/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="95" column="32" lean-forward="true" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/action/BuildPlying.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/rule/RuleLand.java" />
+    <entry file="jar://D:/jdk/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/rule/LandType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/util/LandUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="506" column="18" selection-start-line="506" selection-start-column="18" selection-end-line="506" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="898" column="19" lean-forward="true" selection-start-line="898" selection-start-column="19" selection-end-line="898" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="100" column="36" lean-forward="true" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="73" column="24" lean-forward="true" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/Util.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/out/production/DDZ/com/java1823/ddz/CallName1823.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZClient/src/com/java1823/ddzclient/DDZClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="67" column="21" lean-forward="true" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZClient/src/com/java1823/ddzclient/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZClient/src/com/java1823/ddzclient/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/PControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/user/ClientUserName.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/Test/TestDou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/rule/LandRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="147" column="43" lean-forward="true" selection-start-line="147" selection-start-column="43" selection-end-line="147" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/rule/LandControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dou/rule/Landlords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/test/TestPlaying.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="2397" column="23" lean-forward="true" selection-start-line="2397" selection-start-column="23" selection-end-line="2397" selection-end-column="23" />
+          <folding>
+            <element signature="e#55800#55801#0" expanded="true" />
+            <element signature="e#55844#55845#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+            <element signature="e#111196#111197#0" expanded="true" />
+            <element signature="e#111251#111252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/PUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/P.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/client/ClientLand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/DDZClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="97" column="15" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/server/ServerDialogueClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="53" column="42" lean-forward="true" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3129#3130#0" expanded="true" />
+            <element signature="e#3176#3177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/DDZ/src/com/java1823/ddz/DDZServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="178" column="29" lean-forward="true" selection-start-line="178" selection-start-column="29" selection-end-line="178" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/test/TestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/test/TestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/server/ServerLand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="124" column="21" lean-forward="true" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/util/UtilLand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/action/PlayingType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1250#1251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/action/PlayingCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/action/LandControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hp/test/dui/action/ActionLand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
